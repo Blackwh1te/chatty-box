@@ -1,1 +1,0 @@
-{"mappings":"AAEiBA,SAASC,eAAe,QAEhCC,YAAkB,EAAG","sources":["src/index.js"],"sourcesContent":["import sum from './modules/sum'\n\nconst rootNode = document.getElementById('root')\n\nrootNode.textContent = sum(2, 2)"],"names":["document","getElementById","textContent"],"version":3,"file":"index.f4a297ea.js.map"}

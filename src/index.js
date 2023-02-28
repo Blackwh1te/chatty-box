@@ -2,4 +2,4 @@ import sum from './modules/sum'
 
 const rootNode = document.getElementById('root')
 
-rootNode.textContent = sum(2, 2)
+rootNode.textContent = `Hello world! ${sum(2, 2)}`
